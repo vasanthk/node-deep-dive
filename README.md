@@ -1,6 +1,9 @@
 # Node.js deep dive
 Deep dive into Node.js and its workings
 
+### Ecosystem
+[Learn Hapi.js](https://github.com/dwyl/learn-hapi)
+
 ### Articles
 [You Don't Know Node](https://webapplog.com/you-dont-know-node/)
 
