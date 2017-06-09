@@ -5,6 +5,7 @@ Deep dive into Node.js and its workings
 [Learn Hapi.js](https://github.com/dwyl/learn-hapi)
 [Express to Hapi.js](http://matt-harrison.com/moving-from-express-to-hapi-js/)
 [How do Express and hapi compare to each other?](https://stackoverflow.com/questions/30469767/how-do-express-and-hapi-compare-to-each-other)
+[Awesome list: Hapi.js](https://github.com/evolastech/awesome-hapi)
 
 ### Articles
 [You Don't Know Node](https://webapplog.com/you-dont-know-node/)
