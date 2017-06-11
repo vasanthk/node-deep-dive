@@ -18,3 +18,4 @@ Deep dive into Node.js and its workings
 
 ### Other links
 [Node.js Learning list](https://github.com/sergtitov/NodeJS-Learning)
+[History of Node.js on a Timeline](https://blog.risingstack.com/history-of-node-js/)
