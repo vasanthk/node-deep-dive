@@ -20,3 +20,4 @@ Deep dive into Node.js and its workings
 [Node.js Learning list](https://github.com/sergtitov/NodeJS-Learning)
 [History of Node.js on a Timeline](https://blog.risingstack.com/history-of-node-js/)
 [Why The Hell Would I Use Node.js? A Case-by-Case Tutorial](https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+[19 things I learnt reading the NodeJS docs](https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f)
