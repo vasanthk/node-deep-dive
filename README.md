@@ -17,9 +17,6 @@ Deep dive into Node.js and its workings
 
 [Node.js Streams: Everything you need to know](https://medium.freecodecamp.com/node-js-streams-everything-you-need-to-know-c9141306be93)
 
-[10 Node.js Best Practices Enlightenment from the Node Gurus](https://www.sitepoint.com/node-js-best-practices-from-the-node-
-gurus)
-
 [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
 
 ### Videos
