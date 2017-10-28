@@ -38,7 +38,6 @@ gurus/)
 
 [19 things I learnt reading the NodeJS docs](https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f)
 
-[Node.js, Doctor’s Offices and Fast Food Restaurants – Understanding Event-driven Programming]
-(http://code.danyork.com/2011/01/25/node-js-doctors-offices-and-fast-food-restaurants-understanding-event-driven-programming/)
+[Node.js, Doctor’s Offices and Fast Food Restaurants – Understanding Event-driven Programming](http://code.danyork.com/2011/01/25/node-js-doctors-offices-and-fast-food-restaurants-understanding-event-driven-programming/)
 
 [Art of Node](https://github.com/maxogden/art-of-node)
